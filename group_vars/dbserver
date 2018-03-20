@@ -1,0 +1,5 @@
+# DNS servers to use
+nameserver_ips:
+  - 208.67.222.222
+  - 208.67.220.220
+
